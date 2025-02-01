@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976291445848",
+    "project_id": "remly1-90071",
+    "storage_bucket": "remly1-90071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976291445848:android:72b9e4ec3c69355ec21e2d",
+        "android_client_info": {
+          "package_name": "com.example.remly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFHrGZR9-4CQrxOjO02nR8HNlS5HS0a0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
